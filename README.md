@@ -1,2 +1,2 @@
 # Python
-Python training programs
+Tensorflow classification demo with UI based on wxPython. 
